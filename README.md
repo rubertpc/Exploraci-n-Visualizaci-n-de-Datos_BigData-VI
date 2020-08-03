@@ -8,4 +8,4 @@ Los datos son tomados de aquí: [Airbnb](https://public.opendatasoft.com/explore
 COVID](https://datos.comunidad.madrid/catalogo/dataset/covid19_tia_muni_y_distritos/resource/b2a3a3f9-1f82-42c2-89c7-cbd3ef801412?inner_span=True) - [Museos](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=118f2fdbecc63410VgnVCM1000000b205a0aRCRD&)
 
 
-![Screenshot](PrácticaRubert_Exploración & Visualización de Datos_BigData VI.png)
+![Imagen final del dashboard del proyecto](https://github.com/rubertpc/Exploraci-n-Visualizaci-n-de-Datos_BigData-VI/blob/master/Pra%CC%81cticaRubert_Exploracio%CC%81n%20%26%20Visualizacio%CC%81n%20de%20Datos_BigData%20VI.png)
